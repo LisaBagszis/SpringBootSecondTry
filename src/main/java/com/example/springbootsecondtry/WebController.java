@@ -25,10 +25,7 @@ public class WebController {
 
 
 
-       // @GetMapping("/{name}")
-        //public String getGreetings(@PathVariable String name) {
-      //  return "Hallo " + name;
-   //}
+
 //    @GetMapping("/{name}")
 //    public String getGreetings(@PathVariable String name, @RequestParam String helloworld) {
 //        return helloworld + " " +  name;
